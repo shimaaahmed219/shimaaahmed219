@@ -2,7 +2,8 @@
 
 <!--Night Owl image-->
 <div>
-    <img " width="100%" height="300px" style={{ style={{ borderRadius:"10px }} src="https://png.pngtree.com/thumb_back/fh260/background/20200727/pngtree-abstract-background-luxury-with-stripes-modern-in-purple-color-image_370725.jpg">
+   <img src="https://png.pngtree.com/thumb_back/fh260/background/20200727/pngtree-abstract-background-luxury-with-stripes-modern-in-purple-color-image_370725.jpg" alt="Abstract background" width="100%" height="300px" style="border-radius:10px;">
+
 </div>
 
 <div>
