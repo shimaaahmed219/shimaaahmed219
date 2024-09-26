@@ -2,7 +2,7 @@
 
 <!--Night Owl image-->
 <div>
-    <img align="right" width="40%" src="https://png.pngtree.com/thumb_back/fh260/background/20200728/pngtree-background-frame-with-fluid-style-and-blue-violet-gradient-colors-and-image_368974.jpg">
+    <img " width="100%" src="https://png.pngtree.com/thumb_back/fh260/background/20200728/pngtree-background-frame-with-fluid-style-and-blue-violet-gradient-colors-and-image_368974.jpg">
 </div>
 
 <div>
