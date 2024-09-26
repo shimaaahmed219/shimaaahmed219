@@ -270,7 +270,7 @@
 </a>
 
 <a href="https://github.com/shimaaahmed219" target="_blank">
-<img src=".https://github.com/Kiran1689/kiran1689/raw/main/github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+<img src="https://github.com/Kiran1689/kiran1689/raw/main/github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
 </a>
 
 <a href="linkedin.com/in/shimaa-ahmed-099691309" target="_blank">
