@@ -35,10 +35,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
+<img align="left" alt="GIF description" src="/Kiran1689/kiran1689/raw/main/Skills_Animation_White.gif" style="visibility:visible;max-width:100%;">
 <br />
 
 <h3 align="left">Current Learning</h3>
