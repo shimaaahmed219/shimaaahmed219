@@ -266,20 +266,18 @@
 
 
 <a href="https://www.instagram.com/shimaa_.ahmed" target="_blank">
-<img src="https://github.com/Kiran1689/kiran1689/raw/main/gmail.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+<img src="https://github.com/Kiran1689/kiran1689/raw/main/instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/Kiran1689" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+<a href="https://github.com/shimaaahmed219" target="_blank">
+<img src=".https://github.com/Kiran1689/kiran1689/raw/main/github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+<a href="linkedin.com/in/shimaa-ahmed-099691309" target="_blank">
+<img src="https://github.com/Kiran1689/kiran1689/raw/main/linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://dev.to/dev_kiran" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
-</a>
+
 </div>
 <br/>
 
