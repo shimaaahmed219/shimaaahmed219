@@ -12,7 +12,7 @@
 <br /> 
 
 <!--Start Intro-->               
-p align="left">I am a Frontend Developer with a strong passion for learning programming languages. I work with JavaScript and TypeScript, as well as libraries and frameworks such as React and Next.js. I use Bootstrap and Tailwind for styling, and I also utilize Redux Toolkit for state management, along with Sass and jQuery.</p>
+<p align="left">I am a Frontend Developer with a strong passion for learning programming languages. I work with JavaScript and TypeScript, as well as libraries and frameworks such as React and Next.js. I use Bootstrap and Tailwind for styling, and I also utilize Redux Toolkit for state management, along with Sass and jQuery.</p>
 
 🌱 Currently honing my skills in web development, I believe in continuous learning and improvement.
 💁‍♂️ Active member and moderator in various tech communities.
