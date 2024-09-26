@@ -2,9 +2,9 @@
 
 <!--Night Owl image-->
 <div>
-  
-<img src="https://png.pngtree.com/thumb_back/fh260/background/20200728/pngtree-background-frame-with-fluid-style-and-blue-violet-gradient-colors-and-image_368974.jpg" width:"100%">
+    <img align="right" width="40%" src="https://png.pngtree.com/thumb_back/fh260/background/20200728/pngtree-background-frame-with-fluid-style-and-blue-violet-gradient-colors-and-image_368974.jpg">
 </div>
+
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
