@@ -1,5 +1,5 @@
 <!--Banner-->
-![Kiran1689 Banner Image](./banner.png)
+![Kiran1689 Banner Image](https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png)
 
 <!--Night Owl image-->
 <div>
