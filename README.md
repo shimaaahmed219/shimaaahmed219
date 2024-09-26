@@ -40,7 +40,7 @@
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-<li></li>Deepening my knowledge in frontend development using React.</li>
+<li>Deepening my knowledge in frontend development using React.</li>
 <li>Exploring Next.js framework to enhance the app development experience..</li>
 <li>Improving my skills in using Tailwind CSS and Bootstrap for creating attractive user interfaces..</li>
 <li>Developing my proficiency in jQuery and Sass to streamline web development processes..</li>
