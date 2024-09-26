@@ -7,21 +7,18 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ shimaa! 
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+p align="left">I am a Frontend Developer with a strong passion for learning programming languages. I work with JavaScript and TypeScript, as well as libraries and frameworks such as React and Next.js. I use Bootstrap and Tailwind for styling, and I also utilize Redux Toolkit for state management, along with Sass and jQuery.</p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
-<!--End Intro-->
+🌱 Currently honing my skills in web development, I believe in continuous learning and improvement.
+💁‍♂️ Active member and moderator in various tech communities.
+🏙 Experienced mentor, guiding newcomers in their web development journey.
+
+
 
 <!--Profile Count Badge-->
 <p align="left">
@@ -42,9 +39,11 @@
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+<li></li>Deepening my knowledge in frontend development using React.</li>
+<li>Exploring Next.js framework to enhance the app development experience..</li>
+<li>Improving my skills in using Tailwind CSS and Bootstrap for creating attractive user interfaces..</li>
+<li>Developing my proficiency in jQuery and Sass to streamline web development processes..</li>
+<li>Enhancing my ability to build dynamic websites using JavaScript..</li>
 </ul>
   
 <h3 align="left">Latest Blog Posts</h3>
