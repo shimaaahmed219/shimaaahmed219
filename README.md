@@ -49,9 +49,9 @@
   
 <h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
-  <li><a href="https://dev.to/dev_kiran/19-open-source-tools-you-should-bookmark-now-5hc4">🧙‍♂️19 Open-Source Tools You Should Bookmark Now🔖</a></li>
-  <li><a href="https://dev.to/dev_kiran/automq-a-cloud-native-replacement-of-apache-kafka-59mg">AutoMQ: A Cloud-Native Replacement of Apache Kafka</a></li>
-  <li><a href="https://dev.to/dev_kiran/boost-your-dev-workflow-with-these-top-tools-4k66">🚀Boost Your Dev Workflow with These Top Tools</a></li>
+  <li><a href="https://passport-blue.vercel.app/">Encryption project</a></li>
+  <li><a href="https://shoppo-nine.vercel.app/">ecommric project</a></li>
+  <li><a href="https://mashawy.vercel.app/">restrunt project</a></li>
 </ul>
 <br />
 <br />
