@@ -2,7 +2,7 @@
 
 <!--Night Owl image-->
 <div>
-   <img src="https://media4.giphy.com/media/10zxDv7Hv5RF9C/100.webp?cid=790b7611hsrlfey6pvc9v5af04ialtdtkf0s1anjbvwc2kr5&ep=v1_gifs_search&rid=100.webp&ct=g" alt="Abstract background" width="100%" height="300px" style="border-radius:10px;">
+   <img src="https://i.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" height="300px" style="border-radius:10px;">
 
 </div>
 
