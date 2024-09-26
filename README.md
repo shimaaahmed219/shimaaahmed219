@@ -3,8 +3,7 @@
 <!--Night Owl image-->
 <div>
   
-<img src=(https://png.pngtree.com/thumb_back/fh260/background/20200727/pngtree-abstract-background-luxury-with-stripes-modern-in-purple-color-image_370725.jpg) width="100%" height:"200px"/>
-
+![Kiran1689 Banner Image](https://png.pngtree.com/thumb_back/fh260/background/20200727/pngtree-abstract-background-luxury-with-stripes-modern-in-purple-color-image_370725.jpg)
 </div>
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
