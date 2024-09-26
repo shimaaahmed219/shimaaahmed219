@@ -34,7 +34,7 @@
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
-<picture>
+
 <img align="left" alt="GIF description" src="/Kiran1689/kiran1689/raw/main/Skills_Animation_White.gif" style="visibility:visible;max-width:100%;">
 <br />
 
